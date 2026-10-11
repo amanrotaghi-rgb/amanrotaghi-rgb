@@ -43,22 +43,52 @@ I'm a Computer Science Engineering student focused on **Data Engineering** and b
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
 
 
-
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-### 🛒 E-Commerce ETL Pipeline
+### 🛒 E-Commerce End-to-End Data Engineering Pipeline
 
-**Status:** In Progress
+![Project Status](https://img.shields.io/badge/Status-In_Progress-orange?style=for-the-badge)
 
-A Python-based ETL project focused on extracting, transforming, validating, and preparing e-commerce data for analysis.
+**Objective**
 
-**Tech Stack:** Python • Pandas • PostgreSQL • SQL
+Build an end-to-end data pipeline that extracts e-commerce data, cleans and validates it, loads it into a database, and progressively evolves into an orchestrated cloud-based data engineering solution.
 
-**Key Learning Areas:**
+**🧰 Planned Tech Stack**
 
-* Data extraction and transformation
-* Data cleaning and validation
-* ETL logging and error handling
-* Database loading
+* **Programming & Transformation:** Python, Pandas, SQL
+* **Database:** PostgreSQL
+* **Big Data Processing:** Apache Spark / PySpark
+* **Workflow Orchestration:** Apache Airflow
+* **Cloud Services:** AWS S3, AWS Glue, Amazon Athena
+* **Optional Data Warehouse:** Amazon Redshift
+* **Containerization:** Docker
+* **Testing & Automation:** Pytest, GitHub Actions
+* **Version Control:** Git and GitHub
+
+**🏗️ Planned Pipeline Architecture**
+
+CSV / API Sources → Python ETL → Data Quality Validation → PostgreSQL → PySpark Processing → AWS S3 → Athena Analytics
+
+Apache Airflow will orchestrate pipeline tasks, and Docker will help provide a reproducible development environment.
+
+**📌 Development Roadmap**
+
+* [x] Initial Python ETL practice
+* [x] Basic transformation and validation practice
+* [x] Logging and error-handling practice
+* [ ] Complete and test the core ETL pipeline
+* [ ] Integrate PostgreSQL loading and incremental processing
+* [ ] Add automated tests and stronger data-quality checks
+* [ ] Integrate PySpark for batch processing
+* [ ] Orchestrate workflows using Apache Airflow
+* [ ] Containerize the development environment with Docker
+* [ ] Extend the pipeline to AWS S3 and selected AWS analytics services
+* [ ] Complete documentation and publish the final architecture
+
+**🎯 Final Goal**
+
+Build a documented, tested, and reproducible Data Engineering project demonstrating ETL development, data quality, orchestration, distributed processing, and cloud integration.
+
+> Note: This project is under active development. Planned tools and features will be marked complete only after implementation and testing.
