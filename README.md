@@ -109,3 +109,21 @@ Build a documented, tested, and reproducible Data Engineering project demonstrat
   <img src="https://streak-stats.demolab.com?user=amanrotaghi-rgb&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/amanrotaghi-rgb">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/aman-rotaghi-5326073a8">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Learn • Build • Improve • Repeat</i>
+</p>
