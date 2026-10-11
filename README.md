@@ -92,3 +92,20 @@ Apache Airflow will orchestrate pipeline tasks, and Docker will help provide a r
 Build a documented, tested, and reproducible Data Engineering project demonstrating ETL development, data quality, orchestration, distributed processing, and cloud integration.
 
 > Note: This project is under active development. Planned tools and features will be marked complete only after implementation and testing.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amanrotaghi-rgb&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanrotaghi-rgb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amanrotaghi-rgb&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
