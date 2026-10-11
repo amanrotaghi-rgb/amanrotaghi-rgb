@@ -41,3 +41,24 @@ I'm a Computer Science Engineering student focused on **Data Engineering** and b
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
+
+
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 E-Commerce ETL Pipeline
+
+**Status:** In Progress
+
+A Python-based ETL project focused on extracting, transforming, validating, and preparing e-commerce data for analysis.
+
+**Tech Stack:** Python • Pandas • PostgreSQL • SQL
+
+**Key Learning Areas:**
+
+* Data extraction and transformation
+* Data cleaning and validation
+* ETL logging and error handling
+* Database loading
